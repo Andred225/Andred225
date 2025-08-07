@@ -10,6 +10,7 @@
 
 На данный момент активно ищу работу.
 
+[Мой дипломный проект](https://github.com/Andred225/Andred225/blob/main/Дипломный_проект.rar)
 <!--
 **Andred225/Andred225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
